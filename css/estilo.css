@@ -30,3 +30,11 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+img{
+ height: 420px;
+ width: 840px;
+ align-items: center;
+ margin-left: 28%;
+ margin-bottom: 3%;
+}
